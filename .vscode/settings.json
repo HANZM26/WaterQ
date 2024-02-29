@@ -1,0 +1,14 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "/mnt/Data0/PROJECTS/MBKM-BRIN/brin/BRIN-EbyteSend/lib/Adafruit_BusIO-master",
+    "files.associations": {
+        "MLTable": "yaml",
+        "sstream": "cpp",
+        "system_error": "cpp",
+        "random": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "functional": "cpp"
+    }
+}
