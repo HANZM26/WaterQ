@@ -282,7 +282,7 @@ void print_Data()
 	json_data["turbidity"]= float(ntu_result);
 	Serial.println("");
 	serializeJson(json_data, Serial);
-
+	// aku ganteng 7 turunan
 	/*
 		name : String (BengawanSolo-0)
 	  latitude : float
